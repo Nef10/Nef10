@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+* 👨🏻‍💻 I am developer from Vancouver 🇨🇦, mainly focusing on iOS development.
 * 💻 My current side project is [SwiftBeanCount](https://github.com/Nef10/SwiftBeanCount), a plain text accounting tool
 * 🌱 I’m currently learning SwiftUI
 * 💼 Senior Developer @ [SAP](https://sap.com)
