@@ -5,5 +5,5 @@
 * 🌱 I’m currently learning SwiftUI
 * 💼 Senior Developer @ [SAP](https://sap.com)
 * 🎓 B. Sc. IT Systems Engineering from [HPI](https://hpi.de/en/)
-* 📫 Reach out to my via Twitter [@Nef10](http://twitter.com/Nef10) or email steffen.koette@hey.com
+* 📫 Reach out to me via Twitter [@Nef10](http://twitter.com/Nef10) or email steffen.koette@hey.com
 * 😄 Pronouns: he/him/his
